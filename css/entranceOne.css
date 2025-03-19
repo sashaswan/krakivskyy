@@ -1,0 +1,30 @@
+.section_main_2 {
+    background: url('/images/1-1/1_section_image.jpg') no-repeat center;
+    height: 350px;
+    position: relative;
+}
+.top_sign_up {
+	text-align: center;
+	margin-top: 139px;
+}
+.sign_up_button {
+	width: 188px;
+	height: 40px;
+	margin: 0 auto;
+	border-radius: 2px;
+	border: solid 1px rgb(247, 99, 12);
+	text-align: center;
+	margin-top: 51px;
+}
+.btn_sign_txt {
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-size: 14px;
+	font-weight: 500;
+	text-align: center;
+	color: rgb(51, 51, 51);
+	line-height: 40px;
+}
+.top_brick {
+	text-align: center;
+	margin-top: 190px;
+}
