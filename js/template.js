@@ -249,7 +249,7 @@ const promises = [];
 types.forEach((type) => {
 	const promise = new Promise((resolve, reject) => {
 		const rawFile = new XMLHttpRequest();
-		rawFile.open("GET", `/entranceType/${type}.html`, false);
+		rawFile.open("GET", `https://sashaswan.github.io/krakivskyy/entranceType/${type}.html`, false);
 		rawFile.onreadystatechange = () => {
 			if (rawFile.readyState === 4) {
 				if (rawFile.status === 200 || rawFile.status == 0) {
