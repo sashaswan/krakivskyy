@@ -7,7 +7,7 @@ const data = [
 		flat: '2',
 		area: '77,16',
 		numberRoom: '16',
-		link: 'https://sashaswan.github.io/krakivskyy/flat-16-section-1-entrance-2',
+		link: '/flat-16-section-1-entrance-2',
 		price: 1826377
 	},
 	{
@@ -32,7 +32,7 @@ const data = [
 		flat: '1',
 		area: '73,34',
 		numberRoom: '19',
-		link: 'https://sashaswan.github.io/krakivskyy/flat-19-section-1-entrance-2',
+		link: '/flat-19-section-1-entrance-2',
 		price: 1738598
 	},
 	{
@@ -41,7 +41,7 @@ const data = [
 		flat: '2',
 		area: '77,16',
 		numberRoom: '20',
-		link: 'https://sashaswan.github.io/krakivskyy/flat-20-section-1-entrance-2',
+		link: '/flat-20-section-1-entrance-2',
 		price: 1826377
 	},
 	{
@@ -67,7 +67,7 @@ const data = [
 		flat: '1',
 		area: '73,34',
 		numberRoom: '23',
-		link: 'https://sashaswan.github.io/krakivskyy/flat-23-section-1-entrance-2',
+		link: '/flat-23-section-1-entrance-2',
 		price: 1738598
 	},
 	{
@@ -76,7 +76,7 @@ const data = [
 		flat: '2',
 		area: '77,16',
 		numberRoom: '24',
-		link: 'https://sashaswan.github.io/krakivskyy/flat-24-section-1-entrance-2',
+		link: '/flat-24-section-1-entrance-2',
 		price: 1826377
 	},
 	{
@@ -93,7 +93,7 @@ const data = [
 		flat: '2',
 		area: '77,99',
 		numberRoom: '26',
-		link: 'https://sashaswan.github.io/krakivskyy/flat-26-section-1-entrance-2',
+		link: '/flat-26-section-1-entrance-2',
 		price: 1848830
 	},
 	{
@@ -102,7 +102,7 @@ const data = [
 		flat: '1',
 		area: '73,34',
 		numberRoom: '27',
-		link: 'https://sashaswan.github.io/krakivskyy/flat-27-section-1-entrance-2',
+		link: '/flat-27-section-1-entrance-2',
 		price: 1738598
 	},
 	{
@@ -111,7 +111,7 @@ const data = [
 		flat: '2',
 		area: '77,16',
 		numberRoom: '28',
-		link: 'https://sashaswan.github.io/krakivskyy/flat-28-section-1-entrance-2',
+		link: '/flat-28-section-1-entrance-2',
 		price: 1826377
 	},
 	{
@@ -128,7 +128,7 @@ const data = [
 		flat: '2',
 		area: '77,99',
 		numberRoom: '30',
-		link: 'https://sashaswan.github.io/krakivskyy/flat-30-section-1-entrance-2',
+		link: '/flat-30-section-1-entrance-2',
 		price: 1848839
 	},
 	{
@@ -137,7 +137,7 @@ const data = [
 		flat: '1',
 		area: '73,34',
 		numberRoom: '31',
-		link: 'https://sashaswan.github.io/krakivskyy/flat-31-section-1-entrance-2',
+		link: '/flat-31-section-1-entrance-2',
 		price: 1738598
 	},
 	{
@@ -146,7 +146,7 @@ const data = [
 		flat: '2',
 		area: '73,91',
 		numberRoom: '32',
-		link: 'https://sashaswan.github.io/krakivskyy/flat-32-section-1-entrance-2',
+		link: '/flat-32-section-1-entrance-2',
 		price: 1738598
 	},
 	{
@@ -163,7 +163,7 @@ const data = [
 		flat: '2',
 		area: '74,29',
 		numberRoom: '34',
-		link: 'https://sashaswan.github.io/krakivskyy/flat-34-section-1-entrance-2',
+		link: '/flat-34-section-1-entrance-2',
 		price: 1761118
 	},
 	{
@@ -172,7 +172,7 @@ const data = [
 		flat: '1',
 		area: '73,34',
 		numberRoom: '35',
-		link: 'https://sashaswan.github.io/krakivskyy/flat-35-section-1-entrance-2',
+		link: '/flat-35-section-1-entrance-2',
 		price: 1738598
 	}
 ];
