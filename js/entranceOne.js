@@ -3,7 +3,7 @@ let currentPage = 1;
 const data = [
 	{
 		type: 'sell',
-		image: '/images/1-1/flat/1.jpg',
+		image: 'https://sashaswan.github.io/krakivskyy/images/1-1/flat/1.jpg',
 		flat: '2',
 		area: '71,51',
 		numberRoom: '1',
@@ -12,20 +12,20 @@ const data = [
 	},
 	{
 		type: 'sold',
-		image: '/images/1-1/flat2/11.jpg',
+		image: 'https://sashaswan.github.io/krakivskyy/images/1-1/flat2/11.jpg',
 		flat: '1',
 		area: '50,01',
 		numberRoom: '2',
-		link: '/flat-2-section-1-entrance-1',
+		link: 'https://sashaswan.github.io/krakivskyy/flat-2-section-1-entrance-1',
 		price: 0
 	},
 	{
 		type: 'sell',
-		image: '/images/1-1/flat/3.jpg',
+		image: 'https://sashaswan.github.io/krakivskyy/images/1-1/flat/3.jpg',
 		flat: '1',
 		area: '77,16',
 		numberRoom: '3',
-		link: '/flat-3-section-1-entrance-1',
+		link: 'https://sashaswan.github.io/krakivskyy/flat-3-section-1-entrance-1',
 		price: 1826377
 	},
 	{
@@ -33,27 +33,27 @@ const data = [
 	},
 	{
 		type: 'sold',
-		image: '/images/1-1/flat/4.jpg',
+		image: 'https://sashaswan.github.io/krakivskyy/images/1-1/flat/4.jpg',
 		flat: '2',
 		area: '71,51',
 		numberRoom: '4',
-		price: 0 
+		price: 0
 	},
 	{
 		type: 'sold',
-		image: '/images/1-1/flat/5.jpg',
+		image: 'https://sashaswan.github.io/krakivskyy/images/1-1/flat/5.jpg',
 		flat: '1',
 		area: '50,01',
 		numberRoom: '5',
-		price: 0 
+		price: 0
 	},
 	{
 		type: 'sell',
-		image: '/images/1-1/flat/6.jpg',
+		image: 'https://sashaswan.github.io/krakivskyy/images/1-1/flat/6.jpg',
 		flat: '1',
 		area: '77,16',
 		numberRoom: '6',
-		link: '/flat-6-section-1-entrance-1',
+		link: 'https://sashaswan.github.io/krakivskyy/flat-6-section-1-entrance-1',
 		price: 1826377
 	},
 	{
@@ -61,16 +61,16 @@ const data = [
 	},
 	{
 		type: 'sell',
-		image: '/images/1-1/flat/7.jpg',
+		image: 'https://sashaswan.github.io/krakivskyy/images/1-1/flat/7.jpg',
 		flat: '2',
 		area: '71,51',
 		numberRoom: '7',
-		link: '/flat-7-section-1-entrance-1',
+		link: 'https://sashaswan.github.io/krakivskyy/flat-7-section-1-entrance-1',
 		price: 1695216
 	},
 	{
 		type: 'sold',
-		image: '/images/1-1/flat/8.jpg',
+		image: 'https://sashaswan.github.io/krakivskyy/images/1-1/flat/8.jpg',
 		flat: '1',
 		area: '50,01',
 		numberRoom: '8',
@@ -78,32 +78,32 @@ const data = [
 	},
 	{
 		type: 'sell',
-		image: '/images/1-1/flat/9.jpg',
+		image: 'https://sashaswan.github.io/krakivskyy/images/1-1/flat/9.jpg',
 		flat: '1',
 		area: '77,16',
 		numberRoom: '9',
-		link: '/flat-9-section-1-entrance-1',
+		link: 'https://sashaswan.github.io/krakivskyy/flat-9-section-1-entrance-1',
 		price: 1826377
 	},
 	{
 		type: 'slider',
-		slider1: '/images/1-1/slider/1.jpg',
-		slider2: '/images/1-1/slider/2.jpg',
-		slider3: '/images/1-1/slider/3.jpg',
-		slider4: '/images/1-1/slider/4.jpg'
+		slider1: 'https://sashaswan.github.io/krakivskyy/images/1-1/slider/1.jpg',
+		slider2: 'https://sashaswan.github.io/krakivskyy/images/1-1/slider/2.jpg',
+		slider3: 'https://sashaswan.github.io/krakivskyy/images/1-1/slider/3.jpg',
+		slider4: 'https://sashaswan.github.io/krakivskyy/images/1-1/slider/4.jpg'
 	},
 	{
 		type: 'sold',
-		image: '/images/1-1/flat2/11.jpg',
+		image: 'https://sashaswan.github.io/krakivskyy/images/1-1/flat2/11.jpg',
 		flat: '2',
 		area: '71,51',
 		numberRoom: '10',
-		link: '/flat-10-section-1-entrance-1',
+		link: 'https://sashaswan.github.io/krakivskyy/flat-10-section-1-entrance-1',
 		price: 0
 	},
 	{
 		type: 'sold',
-		image: '/images/1-1/flat2/11.jpg',
+		image: 'https://sashaswan.github.io/krakivskyy/images/1-1/flat2/11.jpg',
 		flat: '1',
 		area: '50,01',
 		numberRoom: '11',
@@ -111,7 +111,7 @@ const data = [
 	},
 	{
 		type: 'sold',
-		image: '/images/1-1/flat2/12.jpg',
+		image: 'https://sashaswan.github.io/krakivskyy/images/1-1/flat2/12.jpg',
 		flat: '1',
 		area: '77,16',
 		numberRoom: '12',
@@ -122,16 +122,16 @@ const data = [
 	},
 	{
 		type: 'sold',
-		image: '/images/1-1/flat2/11.jpg',
+		image: 'https://sashaswan.github.io/krakivskyy/images/1-1/flat2/11.jpg',
 		flat: '2',
 		area: '67,79',
 		numberRoom: '13',
-		link: '/flat-13-section-1-entrance-1',
+		link: 'https://sashaswan.github.io/krakivskyy/flat-13-section-1-entrance-1',
 		price: 0
 	},
 	{
 		type: 'sold',
-		image: '/images/1-1/flat2/14.jpg',
+		image: 'https://sashaswan.github.io/krakivskyy/images/1-1/flat2/14.jpg',
 		flat: '1',
 		area: '47,47',
 		numberRoom: '14',
@@ -139,11 +139,11 @@ const data = [
 	},
 	{
 		type: 'sell',
-		image: '/images/1-1/flat2/15.jpg',
+		image: 'https://sashaswan.github.io/krakivskyy/images/1-1/flat2/15.jpg',
 		flat: '1',
 		area: '73,91',
 		numberRoom: '15',
-		link: '/flat-15-section-1-entrance-1',
+		link: 'https://sashaswan.github.io/krakivskyy/flat-15-section-1-entrance-1',
 		price: 1752110
 	},
 	{
@@ -155,21 +155,21 @@ const types = ['sold', 'sell', 'signup', 'slider', 'brick'];
 let templates = {};
 const promises = [];
 types.forEach((type) => {
-	const promise = new Promise ((resolve, reject) => {
+	const promise = new Promise((resolve, reject) => {
 		const rawFile = new XMLHttpRequest();
-	    rawFile.open("GET", `/1-section-1Type/${type}.html`, false);
-	    rawFile.onreadystatechange = () => {
-	        if(rawFile.readyState === 4) {
-	            if(rawFile.status === 200 || rawFile.status == 0) {
+		rawFile.open("GET", `/1-section-1Type/${type}.html`, false);
+		rawFile.onreadystatechange = () => {
+			if (rawFile.readyState === 4) {
+				if (rawFile.status === 200 || rawFile.status == 0) {
 					templates[type] = rawFile.responseText;
 					resolve();
-	            }
-	        }
-	    }
-	    rawFile.send(null);
+				}
+			}
+		}
+		rawFile.send(null);
 	});
 	promises.push(promise);
-});	
+});
 
 Promise.all(promises).then(buildHtml);
 
@@ -209,24 +209,24 @@ function buildHtml() {
 		});
 		$('#pagination').append(button);
 	}
-	
+
 	$('[name="min_price"]').val(Math.min(...data.map(item => item.price)));
 	$('[name="max_price"]').val(Math.max(...data.map(item => item.price)));
 	const minPrice = Math.min(...data.filter(item => item.type === 'sell').map(item => item.price));
 	const maxPrice = Math.max(...data.filter(item => item.type === 'sell').map(item => item.price));
-	
-	$(function() {
+
+	$(function () {
 		$("#slider-range").slider({
 			range: true,
 			min: minPrice,
 			max: maxPrice,
 			values: [minPrice, maxPrice],
-			slide: function(event, ui) {
+			slide: function (event, ui) {
 				$("#amount").val("₴" + ui.values[0] + " - ₴" + ui.values[1]);
 			}
 		});
 		$("#amount").val("₴" + $("#slider-range").slider("values", 0) +
-		" - ₴" + $("#slider-range").slider("values", 1));
+			" - ₴" + $("#slider-range").slider("values", 1));
 	});
 }
 function prev() {
@@ -261,7 +261,7 @@ function buildFavorite(favorite) {
 		console.log(this);
 		const classes = $(this).attr('class').split(' ');
 		if (classes[classes.length - 1] === 'active') {
-			classes.pop();	
+			classes.pop();
 		}
 		$(this).attr('class', classes.join(' '));
 	});
@@ -299,7 +299,7 @@ function toggleFavorite(numberRoom) {
 function filterByflat() {
 	let filteredData = [...data];
 	const isAllUnchecked = $('[name="flat_count"]:checked').length === 0;
-	$('[name="flat_count"]').each(function() {
+	$('[name="flat_count"]').each(function () {
 		const isChecked = $(this).is(':checked');
 		const value = $(this).val();
 		filteredData = filteredData.filter(item => isAllUnchecked || isChecked || item.flat !== value);
