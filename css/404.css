@@ -1,85 +1,85 @@
-@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Serif:400,700');
-@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans:200,300,400,500,600');
+@import url("https://fonts.googleapis.com/css?family=IBM+Plex+Serif:400,700");
+@import url("https://fonts.googleapis.com/css?family=IBM+Plex+Sans:200,300,400,500,600");
 @font-face {
-	font-family: 'IBM Plex Serif', serif;
-    src: url('/font/IBMPlexSerif-Bold.ttf');
-    font-weight: bold;
+  font-family: "IBM Plex Serif", serif;
+  src: url("https://sashaswan.github.io/krakivskyy/font/IBMPlexSerif-Bold.ttf");
+  font-weight: bold;
 }
 body {
-	margin: 0;
+  margin: 0;
 }
 a {
-	text-decoration: none;
-}	
+  text-decoration: none;
+}
 .logo_404 {
-	height: 100px;
-	background-color: rgb(255, 255, 255);
-	box-shadow: inset 0 -3px 2px 0 rgba(155, 155, 155, 0.5);
+  height: 100px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: inset 0 -3px 2px 0 rgba(155, 155, 155, 0.5);
 }
 .background_404 {
-	background-color: rgb(235, 235, 236);
-	height: 100vh;
+  background-color: rgb(235, 235, 236);
+  height: 100vh;
 }
 .top_404 {
-	padding-top: 96px;
-	text-align: center;
+  padding-top: 96px;
+  text-align: center;
 }
 .title {
-	font-family: 'IBM Plex Sans', sans-serif;
-	font-size: 50px;
-	font-weight: normal;
-	font-style: normal;
-	font-stretch: normal;
-	line-height: 1.2;
-	letter-spacing: normal;
-	color: rgb(40, 40, 40);
-	text-align: center;
-	margin-top: 39px;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 50px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  color: rgb(40, 40, 40);
+  text-align: center;
+  margin-top: 39px;
 }
 .sub_title {
-	font-family: 'IBM Plex Sans', sans-serif;
-	font-size: 18px;
-	font-weight: normal;
-	font-style: normal;
-	font-stretch: normal;
-	line-height: normal;
-	letter-spacing: normal;
-	color: rgb(40, 40, 40);
-	margin-top: 40px;
-	text-align: center;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: rgb(40, 40, 40);
+  margin-top: 40px;
+  text-align: center;
 }
 .go_home {
-	max-width: 126px;
-	margin: auto;
-	height: 41px;
-	border-radius: 2px;
-	background-color: rgb(247, 99, 12);
-	margin-top: 99px;
+  max-width: 126px;
+  margin: auto;
+  height: 41px;
+  border-radius: 2px;
+  background-color: rgb(247, 99, 12);
+  margin-top: 99px;
 }
 .go_home:hover {
-	width: 126px;
-	height: 41px;
-	opacity: 0.8;
-	border-radius: 2px;
-	background-color: rgb(247, 99, 12);
-}  
+  width: 126px;
+  height: 41px;
+  opacity: 0.8;
+  border-radius: 2px;
+  background-color: rgb(247, 99, 12);
+}
 .home_txt {
-	font-family: 'IBM Plex Sans', sans-serif;
-	font-size: 18px;
-	font-weight: normal;
-	font-style: normal;
-	font-stretch: normal;
-	line-height: 41px;
-	text-align: center;
-	letter-spacing: normal;
-	color: rgb(255, 255, 255);
-	text-transform: none;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 41px;
+  text-align: center;
+  letter-spacing: normal;
+  color: rgb(255, 255, 255);
+  text-transform: none;
 }
 .top_second {
-	margin-top: 26px;
-	text-align: center;
+  margin-top: 26px;
+  text-align: center;
 }
 .logo_center {
-	text-align: center;
-	padding-top: 24px;
+  text-align: center;
+  padding-top: 24px;
 }
