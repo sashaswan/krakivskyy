@@ -7,7 +7,7 @@ const data = [
 		flat: '2',
 		area: '71,51',
 		numberRoom: '1',
-		link: '/flat-1-section-1-entrance-1',
+		link: 'krakivskyy/flat-1-section-1-entrance-1',
 		price: 1673334
 	},
 	{
@@ -16,7 +16,7 @@ const data = [
 		flat: '1',
 		area: '50,01',
 		numberRoom: '2',
-		link: '/flat-2-section-1-entrance-1',
+		link: 'krakivskyy/flat-2-section-1-entrance-1',
 		price: 0
 	},
 	{
@@ -25,7 +25,7 @@ const data = [
 		flat: '1',
 		area: '77,16',
 		numberRoom: '3',
-		link: '/flat-3-section-1-entrance-1',
+		link: 'krakivskyy/flat-3-section-1-entrance-1',
 		price: 1826377
 	},
 	{
@@ -53,7 +53,7 @@ const data = [
 		flat: '1',
 		area: '77,16',
 		numberRoom: '6',
-		link: '/flat-6-section-1-entrance-1',
+		link: 'krakivskyy/flat-6-section-1-entrance-1',
 		price: 1826377
 	},
 	{
@@ -65,7 +65,7 @@ const data = [
 		flat: '2',
 		area: '71,51',
 		numberRoom: '7',
-		link: '/flat-7-section-1-entrance-1',
+		link: 'krakivskyy/flat-7-section-1-entrance-1',
 		price: 1695216
 	},
 	{
@@ -82,7 +82,7 @@ const data = [
 		flat: '1',
 		area: '77,16',
 		numberRoom: '9',
-		link: '/flat-9-section-1-entrance-1',
+		link: 'krakivskyy/flat-9-section-1-entrance-1',
 		price: 1826377
 	},
 	{
@@ -98,7 +98,7 @@ const data = [
 		flat: '2',
 		area: '71,51',
 		numberRoom: '10',
-		link: '/flat-10-section-1-entrance-1',
+		link: 'krakivskyy/flat-10-section-1-entrance-1',
 		price: 0
 	},
 	{
@@ -126,7 +126,7 @@ const data = [
 		flat: '2',
 		area: '67,79',
 		numberRoom: '13',
-		link: '/flat-13-section-1-entrance-1',
+		link: 'krakivskyy/flat-13-section-1-entrance-1',
 		price: 0
 	},
 	{
@@ -143,7 +143,7 @@ const data = [
 		flat: '1',
 		area: '73,91',
 		numberRoom: '15',
-		link: '/flat-15-section-1-entrance-1',
+		link: 'krakivskyy/flat-15-section-1-entrance-1',
 		price: 1752110
 	},
 	{
